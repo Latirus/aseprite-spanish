@@ -4,8 +4,6 @@ Traducción de [Aseprite](https://github.com/aseprite/aseprite) en Español
 
 ## Descargar la Extensión
 
-#
-
 ### Básica 
 Para instalarlo, descargar el archivo .aseprite-extension en la página de Releases de este Repositorio. https://github.com/Latirus/aseprite-spanish/releases cuando este lista la v1.0. 
 
@@ -45,8 +43,6 @@ es
 Es necesario **Reiniciar** el programa para que se apliquen los cambios.
 
 ## Contribuir
-
-#
 
 ¡Gracias por considerar contribuir! Podés clonar este repositorio, modificar el archivo:
 
