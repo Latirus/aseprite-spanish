@@ -1,0 +1,20 @@
+{
+    "name": "aseprite-spanish",
+    "displayName": "Español",
+    "description": "Traducción de Interfaz en Español",
+    "version": "0.1",
+    "author": {
+        "name": "Federico Perez",
+        "email": "support@latirus.com",
+        "url": "https://www.latirus.com/"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "my-language",
+            "path": "./my-language.ini"
+        }]
+    }
+}
