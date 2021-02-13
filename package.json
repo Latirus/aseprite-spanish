@@ -13,8 +13,8 @@
     ],
     "contributes": {
         "languages": [{
-            "id": "my-language",
-            "path": "./my-language.ini"
+            "id": "es",
+            "path": "./es.ini"
         }]
     }
 }
