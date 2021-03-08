@@ -4,8 +4,11 @@ Traducción de [Aseprite](https://github.com/aseprite/aseprite) en Español
 
 ## Descargar la Extensión
 
+### v0.1.0
+Descargar la Extensión Compilada: [Aseprite Spanish v0.1.0](https://github.com/Latirus/aseprite-spanish/releases/download/v0.1.0/aseprite-spanish-v0.1.0.aseprite-extension)
+
 ### Básica 
-Para instalarlo, descargar el archivo .aseprite-extension en la página de Releases de este Repositorio. https://github.com/Latirus/aseprite-spanish/releases cuando este lista la v1.0. 
+Para instalarlo, descargar el archivo .aseprite-extension en la página de Releases de este Repositorio. https://github.com/Latirus/aseprite-spanish/releases 
 
 #
 
